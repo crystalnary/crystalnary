@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Crystal
 
-I'm 27 years old and have been coding in C since I was 12, I swear I have a hold on the basics.
+I'm 28 years old and have been coding in C since I was 12, I swear I have a hold on the basics.
 
 Native & low-level systems engineer who enjoys doing things in a difficult way more than building actual stuff.
 
